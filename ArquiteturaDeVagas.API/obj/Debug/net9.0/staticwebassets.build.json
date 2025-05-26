@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kCf9DjmX7VYLRCwjRbfa9llh8y0YPxqJDO9HiPJ2flg=",
+  "Source": "ArquiteturaDeVagas.API",
+  "BasePath": "_content/ArquiteturaDeVagas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

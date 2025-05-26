@@ -1,0 +1,11 @@
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\bin\Debug\net9.0\ArquiteturaDeVagas.Domain.deps.json
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\bin\Debug\net9.0\ArquiteturaDeVagas.Domain.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\bin\Debug\net9.0\ArquiteturaDeVagas.Domain.pdb
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ArquiteturaDeVagas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ArquiteturaDeVagas.Domain.AssemblyInfoInputs.cache
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ArquiteturaDeVagas.Domain.AssemblyInfo.cs
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ArquiteturaDeVagas.Domain.csproj.CoreCompileInputs.cache
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ArquiteturaDeVagas.Domain.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\refint\ArquiteturaDeVagas.Domain.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ArquiteturaDeVagas.Domain.pdb
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Domain\obj\Debug\net9.0\ref\ArquiteturaDeVagas.Domain.dll

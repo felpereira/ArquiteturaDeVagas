@@ -1,0 +1,17 @@
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.deps.json
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.pdb
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Application.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Domain.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Application.pdb
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\bin\Debug\net9.0\ArquiteturaDeVagas.Domain.pdb
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.csproj.AssemblyReference.cache
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.AssemblyInfoInputs.cache
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.AssemblyInfo.cs
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\Arquitet.6FE337C9.Up2Date
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\refint\ArquiteturaDeVagas.Infrastructure.dll
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ArquiteturaDeVagas.Infrastructure.pdb
+C:\Personal\ArquiteturaDeVagas\ArquiteturaDeVagas.Infrastructure\obj\Debug\net9.0\ref\ArquiteturaDeVagas.Infrastructure.dll
