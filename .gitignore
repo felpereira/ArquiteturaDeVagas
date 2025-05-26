@@ -1,0 +1,93 @@
+# =========================================
+# :: .NET Core & Visual Studio ::
+# =========================================
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+**/[Bb]in/
+**/[Oo]bj/
+
+# VS Code directory
+.vscode/
+
+# Visual Studio / Rider directories
+.vs/
+.idea/
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Roslyn
+*.ruleset
+
+# Test results
+TestResults/
+*.trx
+*.coverlet.json
+coverage.json
+coverage.cobertura.xml
+
+# Publish output
+**/[Pp]ublish/
+**/[Rr]elease/
+
+# Environment files
+.env
+*.env
+
+# App settings secrets - NUNCA comite segredos!
+appsettings.*Development.json
+secrets.json
+
+# Cache files
+*.cache
+
+# =========================================
+# :: System Files ::
+# =========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
